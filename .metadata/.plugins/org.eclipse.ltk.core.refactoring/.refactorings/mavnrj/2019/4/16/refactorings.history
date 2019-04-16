@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;newtestscrpt.java&apos; to &apos;newpack&apos;" description="Move &apos;newtestscrpt.java&apos; to &apos;newpack&apos;" destination="src/main/resources/newpack" element1="src/main/resources/newtestscrpt.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1555408125590" updateReferences="true"/>
+</session>
